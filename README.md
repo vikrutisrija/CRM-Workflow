@@ -32,14 +32,14 @@ The workflow is designed to illustrate how leads move through the CRM process an
 
 ## 📂 Contents
 
-* `CRM-Workflow.png` (or PDF) → The main diagram file.
+* `CRM-Workflow.png` → The main diagram file.
 * `README.md` → Documentation explaining the project.
 
 ---
 
 ## 🚀 Tools Used
 
-* Designed in **Figma / Lucidchart**.
+* Designed in **Lucidchart**.
 * Exported as **PNG/PDF** for sharing.
 
 ---
